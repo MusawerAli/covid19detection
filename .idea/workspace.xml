@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f532c410-ee68-4d33-8c2f-e719846085aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZUWH9lvamVkloTCymV9zAmSwgX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.myTraining">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SolutionToVirus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myTraining" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SolutionToVirus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/templates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myTraining.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.myTraining" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f532c410-ee68-4d33-8c2f-e719846085aa" name="Default Changelist" comment="" />
+      <created>1584894062312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584894062312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584914183010">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state x="551" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/37.27.1563.873@37.27.1563.873" timestamp="1584914183010" />
+    <state width="1539" height="121" key="GridCell.Tab.0.bottom" timestamp="1584917261185">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="121" key="GridCell.Tab.0.bottom/37.27.1563.873@37.27.1563.873" timestamp="1584917261185" />
+    <state width="1539" height="121" key="GridCell.Tab.0.center" timestamp="1584917261184">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="121" key="GridCell.Tab.0.center/37.27.1563.873@37.27.1563.873" timestamp="1584917261184" />
+    <state width="1539" height="121" key="GridCell.Tab.0.left" timestamp="1584917261184">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="121" key="GridCell.Tab.0.left/37.27.1563.873@37.27.1563.873" timestamp="1584917261184" />
+    <state width="1539" height="121" key="GridCell.Tab.0.right" timestamp="1584917261185">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="121" key="GridCell.Tab.0.right/37.27.1563.873@37.27.1563.873" timestamp="1584917261185" />
+    <state width="1539" height="246" key="GridCell.Tab.1.bottom" timestamp="1584911529861">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="246" key="GridCell.Tab.1.bottom/37.27.1563.873@37.27.1563.873" timestamp="1584911529861" />
+    <state width="1539" height="246" key="GridCell.Tab.1.center" timestamp="1584911529860">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="246" key="GridCell.Tab.1.center/37.27.1563.873@37.27.1563.873" timestamp="1584911529860" />
+    <state width="1539" height="246" key="GridCell.Tab.1.left" timestamp="1584911529860">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="246" key="GridCell.Tab.1.left/37.27.1563.873@37.27.1563.873" timestamp="1584911529860" />
+    <state width="1539" height="246" key="GridCell.Tab.1.right" timestamp="1584911529861">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state width="1539" height="246" key="GridCell.Tab.1.right/37.27.1563.873@37.27.1563.873" timestamp="1584911529861" />
+    <state x="431" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1585032485738">
+      <screen x="37" y="27" width="1563" height="873" />
+    </state>
+    <state x="431" y="290" key="com.intellij.ide.util.TipDialog/37.27.1563.873@37.27.1563.873" timestamp="1585032485738" />
+  </component>
+</project>
