@@ -1,7 +1,7 @@
 sklearn==0.0
 Flask==1.1.1
 gunicorn==19.9.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 numpy>=1.9.2
 pandas>=0.19
 cloudpickle>=0.6.0py
